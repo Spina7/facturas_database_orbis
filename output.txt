@@ -25405,6 +25405,740 @@ PEDIMENTO: 2065137<br>
 PEDIDO: F000006643
 CONTENEDOR: 
 
+Factura KCM - 6418
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 2006028<br>
+CONTENEDORES: MRKU7418634 / MSKU2892112
+CONTENEDOR: MRKU7418634
+
+Factura KCM - 6419
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAX.<br>
+PEDIMENTO: 2006206<br>
+CONTENEDORES: MHSU5177530
+CONTENEDOR: MHSU5177530
+
+Factura KCM - 6420
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAX.<br>
+PEDIMENTO: 2006206<br>
+CONTENEDORES: MHSU5177530
+CONTENEDOR: MHSU5177530
+
+Factura KCM - 6421
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAX.<br>
+PEDIMENTO: 2006042<br>
+CONTENEDORES: MRKU5305367
+CONTENEDOR: MRKU5305367
+
+Factura KCM - 6422
+CAJA: 1201<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2024895<br>
+PEDIDO: F000005090
+CONTENEDOR: 
+
+Factura KCM - 6423
+CAJA: 1201<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2024895<br>
+PEDIDO: F000005090
+CONTENEDOR: 
+
+Factura KCM - 6424
+CAJA: S744<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 1052344<br>
+PEDIDO: F000003836
+CONTENEDOR: 
+
+Factura KCM - 6425
+CAJA:532101<br>
+ORIGEN:LAREDO,TX<br>
+DETINO:RAMOS ARIZPE<br>
+PEDIMENTO:1680 2036207<br>
+PEDIDO:F000004778
+CONTENEDOR: 
+
+Factura KCM - 6426
+CAJA:S518<br>
+ORIGEN: LAREDO, TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIDO : F000006353<br>
+PEDIMENTO:2051799
+CONTENEDOR: 
+
+Factura KCM - 6427
+CAJA:SWFZ502318<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000005413<br>
+PEDIMENTO:1680 2036105
+CONTENEDOR: 
+
+Factura KCM - 6428
+CAJA:SWFZ163218<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000005295<br>
+PEDIMENTO:1680 2024870
+CONTENEDOR: 
+
+Factura KCM - 6429
+CAJA:SWFZ210310<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000004701<br>
+PEDIMENTO:1680 2004686
+CONTENEDOR: 
+
+Factura KCM - 6430
+CAJA:SWFZ153798<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000005413<br>
+PEDIMENTO:1680 2036193
+CONTENEDOR: 
+
+Factura KCM - 6431
+CAJA:SWFZ161006<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000005615<br>
+PEDIMENTO:1680 2036290
+CONTENEDOR: 
+
+Factura KCM - 6432
+CAJA:532111<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000006574<br>
+PEDIMENTO:1680 2053995
+CONTENEDOR: 
+
+Factura KCM - 6433
+CAJA:532111<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F00000674<br>
+PEDIMENTO:1680 2065133
+CONTENEDOR: 
+
+Factura KCM - 6434
+CAJA:532111<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000006574<br>
+PEDIMENTO:1680 2065796
+CONTENEDOR: 
+
+Factura KCM - 6435
+CAJA:844<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000006942<br>
+PEDIMENTO:1680 2065826
+CONTENEDOR: 
+
+Factura KCM - 6436
+CAJA: S459<br>
+ORIGEN: LAREDO <br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIDO: F000006071<br>
+PEDIMENTO: 1680 2039913
+CONTENEDOR: 
+
+Factura KCM - 6437
+CAJA: 154626<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 1053524<br>
+PEDIDO: F000004098
+CONTENEDOR: 
+
+Factura KCM - 6438
+CAJA: 112145<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2020686<br>
+PEDIDO: F000004833
+CONTENEDOR: 
+
+Factura KCM - 6439
+CAJA: SWFZ174637<br>
+ORIGEN: N.LAREDO<br>
+DESTINO: RAMOS ARZIPE<br>
+PEDIMENTO: 1680 2004238<br>
+PEDIDO: F000004223
+CONTENEDOR: 
+
+Factura KCM - 6440
+CAJA: SWFZ163132<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2004383<br>
+PEDIDO: F000004272
+CONTENEDOR: 
+
+Factura KCM - 6441
+CAJA: SWFZ182847<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2004422<br>
+PEDIDO: F000004437
+CONTENEDOR: 
+
+Factura KCM - 6442
+CAJA: SWFZ182135<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2004218<br>
+PEDIDO: F000004272
+CONTENEDOR: 
+
+Factura KCM - 6443
+CAJA: SWFZ111598<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2004271<br>
+PEDIDO: F000004437
+CONTENEDOR: 
+
+Factura KCM - 6444
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAX.<br>
+PEDIMENTO: 2006206<br>
+CONTENEDORES: WHSU5250396
+CONTENEDOR: WHSU5250396
+
+Factura KCM - 6445
+CAJA: 532108<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2004763<br>
+PEDIDO: F000004534
+CONTENEDOR: 
+
+Factura KCM - 6446
+CAJA: 31321<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 2004972<br>
+PEDIDO: F000004762
+CONTENEDOR: 
+
+Factura KCM - 6447
+CAJA: 532114<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO TX<br>
+CONCENTRADO: 163712<br>
+REMISION: 25003213
+CONTENEDOR: 
+
+Factura KCM - 6448
+CAJA:532112<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO:LAREDO,TX<br>
+CONCENTRADO:163716<br>
+REMISION:25003214
+CONTENEDOR: 
+
+Factura KCM - 6449
+CAJA:532115<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO:164079<br>
+REMISION:25003306
+CONTENEDOR: 
+
+Factura KCM - 6450
+CAJA: 845<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTRINO:LAREDO,TX<br>
+CONCENTRADO:164166<br>
+REMISION:25003332
+CONTENEDOR: 
+
+Factura KCM - 6451
+CAJA:532113<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO:164167<br>
+REMISION:25003333
+CONTENEDOR: 
+
+Factura KCM - 6452
+CAJA: 532111<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO:LAREDO,TX<br>
+CONCETTRACION:164168<br>
+TREMISION:25003334
+CONTENEDOR: 
+
+Factura KCM - 6453
+CAJA: 532104<br>
+ORIGEN: BAJIO<br>
+DESTINO: LAREDO<br>
+CONCENTRADO: 227120<br>
+REMISION: 13008469
+CONTENEDOR: 
+
+Factura KCM - 6454
+Caja 845<br>
+Origen Ramos Arizpe<br>
+Destino Nuevo Laredo <br>
+Concentrado 171857<br>
+Remisión 25005590
+CONTENEDOR: 
+
+Factura KCM - 6455
+CAJA:532105<br>
+ORIGEN:RAMOS ARIZPE <br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO:164754<br>
+REMISION:25003449
+CONTENEDOR: 
+
+Factura KCM - 6456
+CAJA: 31321<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 164026<br>
+REMISION: 25003289
+CONTENEDOR: 
+
+Factura KCM - 6457
+CAJA: 532110<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO<br>
+CONCENTRADO: 153582<br>
+REMISION: 25000380
+CONTENEDOR: 
+
+Factura KCM - 6458
+ORIGEN: MANZANILLO, COL<br>
+PEDIMENTO: 2006206<br>
+CONTENEDORES: WHSU5250396
+CONTENEDOR: WHSU5250396
+
+Factura KCM - 6459
+CAJA:  767257<br>
+ORIGEN:  COMMERCE CITY, CO<br>
+DESTINO:  RAMOS ARIZPE<br>
+PEDIDO:  F000007905<br>
+PEDIMENTO:  23 24 1680 3006424
+CONTENEDOR: 
+
+Factura KCM - 6460
+CAJA:  767257<br>
+ORIGEN:  COMMERCE CITY, CO<br>
+DESTINO:  RAMOS ARIZPE<br>
+PEDIDO:  F000007905<br>
+PEDIMENTO:  23 24 1680 3006424
+CONTENEDOR: 
+
+Factura KCM - 6461
+CAJA:4082<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006829
+CONTENEDOR: 
+
+Factura KCM - 6462
+CAJA:6276<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006819
+CONTENEDOR: 
+
+Factura KCM - 6463
+CAJA: 5972<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006626
+CONTENEDOR: 
+
+Factura KCM - 6464
+CAJA: 8987<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006790
+CONTENEDOR: 
+
+Factura KCM - 6465
+CAJA: 4320<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006834
+CONTENEDOR: 
+
+Factura KCM - 6466
+CAJA: 9003<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006566
+CONTENEDOR: 
+
+Factura KCM - 6467
+CAJA: 1718<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007706<br>
+PEDIMENTO:23 24 1680 3006572
+CONTENEDOR: 
+
+Factura KCM - 6468
+CAJA: 6267<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006818
+CONTENEDOR: 
+
+Factura KCM - 6469
+CAJA: 003<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007842<br>
+PEDIMENTO:23 24 1680 3006878
+CONTENEDOR: 
+
+Factura KCM - 6470
+CAJA: 72433<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007842<br>
+PEDIMENTO:23 24 1680 3006854
+CONTENEDOR: 
+
+Factura KCM - 6471
+CAJA: 532113<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006817
+CONTENEDOR: 
+
+Factura KCM - 6472
+CAJA: 31321<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006627
+CONTENEDOR: 
+
+Factura KCM - 6473
+CAJA: 49049<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007842<br>
+PEDIMENTO:23 24 1680 3006720
+CONTENEDOR: 
+
+Factura KCM - 6474
+CAJA: 532101<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006843
+CONTENEDOR: 
+
+Factura KCM - 6475
+CAJA: 532115<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006931
+CONTENEDOR: 
+
+Factura KCM - 6476
+CAJA: 532116<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006638
+CONTENEDOR: 
+
+Factura KCM - 6477
+CAJA:  50735<br>
+ORIGEN: LAREDO<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIDO: F000007691<br>
+PEDIMENTO:  23 24 1680 3005472
+CONTENEDOR: 
+
+Factura KCM - 6478
+CAJA: 809<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006735
+CONTENEDOR: 
+
+Factura KCM - 6479
+CAJA: 532112<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006781
+CONTENEDOR: 
+
+Factura KCM - 6480
+CAJA: 844<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006801
+CONTENEDOR: 
+
+Factura KCM - 6481
+CAJA: 532114<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006861
+CONTENEDOR: 
+
+Factura KCM - 6482
+CAJA: 297<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006680
+CONTENEDOR: 
+
+Factura KCM - 6483
+CAJA:532109<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174310<br>
+REMISION:25006198
+CONTENEDOR: 
+
+Factura KCM - 6484
+CAJA:532111<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174309<br>
+REMISION:25006197
+CONTENEDOR: 
+
+Factura KCM - 6485
+CAJA:32321<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174354<br>
+REMISION:25006207
+CONTENEDOR: 
+
+Factura KCM - 6486
+CAJA: 532114<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174376<br>
+REMISION:25006212
+CONTENEDOR: 
+
+Factura KCM - 6487
+CAJA: 53219<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174374<br>
+REMISION:25006211
+CONTENEDOR: 
+
+Factura KCM - 6488
+CAJA: 532107<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174444<br>
+REMISION:25006233
+CONTENEDOR: 
+
+Factura KCM - 6489
+CAJA: 30507<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174413<br>
+REMISION:25006223
+CONTENEDOR: 
+
+Factura KCM - 6490
+CAJA: 532110<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174451<br>
+REMISION:25006235
+CONTENEDOR: 
+
+Factura KCM - 6491
+CAJA: 845<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174463<br>
+REMISION:25006236
+CONTENEDOR: 
+
+Factura KCM - 6492
+CAJA: 532116<br>
+ORIGEN:RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 174498<br>
+REMISION:25006248
+CONTENEDOR: 
+
+Factura KCM - 6493
+CAJA: 532110<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006948
+CONTENEDOR: 
+
+Factura KCM - 6494
+CAJA: 532116<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007957<br>
+PEDIMENTO:23 24 1680 3006912
+CONTENEDOR: 
+
+Factura KCM - 6495
+CAJA: 532103<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006951
+CONTENEDOR: 
+
+Factura KCM - 6496
+CAJA: 31321<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006944
+CONTENEDOR: 
+
+Factura KCM - 6497
+CAJA: 2662<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007691<br>
+PEDIMENTO:23 24 1680 3006718
+CONTENEDOR: 
+
+Factura KCM - 6498
+CAJA: 297<br>
+ORIGEN:LAREDO<br>
+DESTINO:RAMOS ARIZPE<br>
+PEDIDO:F000007430<br>
+PEDIMENTO:23 24 1680 3005277
+CONTENEDOR: 
+
+Factura KCM - 6499
+ORIGEN: MANZANILLO<br>
+DESTINO: ECATEPEC (MITRIS)<br>
+PEDIMENTO: 23-16-1805-3000570<br>
+CONTENEDORES: TGBU8610319
+CONTENEDOR: TGBU8610319
+
+Factura KCM - 6500
+CAJA: SWFZ130408<br>
+ORIGEN: DENVER,CO<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 2020402<br>
+PEDIDO: F000004833
+CONTENEDOR: 
+
+Factura KCM - 6501
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001192<br>
+CONTENEDOR:  EMCU8444950
+CONTENEDOR: EMCU8444950
+
+Factura KCM - 6502
+CAJA: 662666<br>
+ORIGEN: FORTH WORTH,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 2071525<br>
+PEDIDO: F000006898
+CONTENEDOR: 
+
+Factura KCM - 6503
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001192<br>
+CONTENEDOR:  EMCU8751406
+CONTENEDOR: EMCU8751406
+
+Factura KCM - 6504
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001188<br>
+CONTENEDOR:  EGHU8351426
+CONTENEDOR: EGHU8351426
+
+Factura KCM - 6505
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001188<br>
+CONTENEDOR:  EGHU9858776
+CONTENEDOR: EGHU9858776
+
+Factura KCM - 6506
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001180<br>
+CONTENEDOR:  TGBU6573366
+CONTENEDOR: TGBU6573366
+
+Factura KCM - 6507
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001180<br>
+CONTENEDOR:  TRHU8326939
+CONTENEDOR: TRHU8326939
+
+Factura KCM - 6508
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001180<br>
+CONTENEDOR:  EITU9063620
+CONTENEDOR: EITU9063620
+
+Factura KCM - 6509
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001190<br>
+CONTENEDOR:  TGBU4031089
+CONTENEDOR: TGBU4031089
+
+Factura KCM - 6510
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001586<br>
+CONTENEDOR:  NYKU4140102
+CONTENEDOR: NYKU4140102
+
+Factura KCM - 6511
+ORIGEN: MANZANILLO, COL<br>
+DESTINO: TLAXCALA, TLAXCALA<br>
+PEDIMENTO: 23 16 1805 3001586<br>
+CONTENEDOR:  NYKU4936804
+CONTENEDOR: NYKU4936804
+
 -----------------LM-------------------
 
 
@@ -25989,1276 +26723,6 @@ CONTENEDORES: <br>
 BMOU4194164<br>
 MRSU5078179
 CONTENEDOR: BMOU4194164
-
-Factura A - 101
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V, PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL MART DE MÉXICO, S.A. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 102
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL MART DE MÉXICO, S.A. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 103
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC E.M.<br>
-<br>
-DESTINO: NUEVA WAL MART DE MÉXICO, S.A. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 104
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL MART DE MÉXICO, S.A. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 105
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL MART S.A. DE C.V,, MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 106
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: CITY CLUB, SALINAS VICTORIA, N.L.
-CONTENEDOR: 
-
-Factura A - 107
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: SUPER MECADOS MTY, MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 108
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC E.M.<br>
-<br>
-DESTINO: CITY CLUB, MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 109
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA TLAJOMULCO DE ZÚÑIGA, JAL
-CONTENEDOR: 
-
-Factura A - 110
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: SUPERMERCADOS MTY, MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 111
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: SORIANA, SALINAS VICTORIA, N.L.
-CONTENEDOR: 
-
-Factura A - 112
-ORIGEN: PEÑAFIEL BEBIDAS SA DE CV PLANTA XALOSTOC E.M.<br>
-<br>
-DESTINO: WAL-MART MTY
-CONTENEDOR: 
-
-Factura A - 113
-ORIGEN: PEÑAFIEL BEBIDAS SA DE CV, XALOSTOC<br>
-<br>
-DESTINO: PEÑAFIEL BEBIDAS SA DE CV, TLAJOMULCO
-CONTENEDOR: 
-
-Factura A - 114
-ORIGEN: PEÑAFIEL BEBIDAS XALOSTOC, E.M.<br>
-<br>
-DESTINO: OXXO MTY
-CONTENEDOR: 
-
-Factura A - 115
-ORIGEN: PEÑAFIEL BEBIDAS SA DE CV, XALOSTOC, E.M.<br>
-<br>
-DESTINO: PEÑAFIEL BEBIDAS SA DE CV, TLAJOMULCO DE ZUÑIGA, JAL.
-CONTENEDOR: 
-
-Factura A - 116
-ORIGEN: PEÑAFIEL BEBIDAS SA DE CV, XALOSTOC E.M.<br>
-<br>
-DESTINO: CADENA OXXO, MTY
-CONTENEDOR: 
-
-Factura A - 117
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 118
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 119
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 120
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 121
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 122
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 123
-ORIGEN<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045<br>
-<br>
-DESTINO:<br>
-Kimberly Clark de México, S.A.B de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900
-CONTENEDOR: 
-
-Factura A - 124
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 125
-ORIGEN<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045<br>
-<br>
-DESTINO<br>
-Kimberly Clark de México, S.A.B de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900
-CONTENEDOR: 
-
-Factura A - 126
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 127
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 128
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 129
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 130
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 131
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 132
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 133
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 134
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 135
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 136
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 137
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 138
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 139
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 140
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 141
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 142
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL-MART DE MÉXICO, S. DE R.L. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 143
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL-MART DE MÉXICO, S. DE R.L. DE. C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 144
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: SUPERMERCADOS INTERNACIONALES HEB, S.A. DE C.V, MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 145
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL-MART, S. DE R.L. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 146
-ORIGEN: PEÑAFIEL BEBIDAS S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: NUEVA WAL-MART, S. DE R.L. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 147
-ORIGEN: PEÑAFIEL BEBIDAS, S.A. DE C.V., PLANTA XALOSTOC, E.M.<br>
-<br>
-DESTINO: SUPERMERCADOS INTERNACIONALES HEB, S.A. DE C.V., MONTERREY, N.L.
-CONTENEDOR: 
-
-Factura A - 148
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 149
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 150
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 151
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 152
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 153
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 154
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 155
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 156
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 157
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 158
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 159
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 160
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 161
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 162
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 163
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900
-CONTENEDOR: 
-
-Factura A - 164
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 165
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 166
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 167
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 168
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 169
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 170
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 171
-SHIPPER<br>
-<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045<br>
-<br>
-CONSIGNEE:<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006
-CONTENEDOR: 
-
-Factura A - 172
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 173
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 174
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 175
-SERVICIOS DE COORDINACIÓN LOGÍSTICA
-CONTENEDOR: 
-
-Factura A - 176
-ORIGEN<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045<br>
-<br>
-DESTINO<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera MTY - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900
-CONTENEDOR: 
-
-Factura A - 177
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 178
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 179
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 180
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 181
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 182
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 183
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 184
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 185
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 186
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 187
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 188
-SHIPPER<br>
-International Paper<br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 189
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 190
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 191
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 192
-SHIPPER<br>
-International Paper <br>
-2015 Country Club Road<br>
-Carrolton, TX 75006<br>
-<br>
-CONSIGNEE<br>
-Kimberly Clark de México, S.A.B. de C.V.<br>
-Carretera Monterrey - Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900<br>
-<br>
-ADDITIONAL STOPS<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045
-CONTENEDOR: 
-
-Factura A - 193
-ORIGEN<br>
-Trans-America Storage &amp; FWD<br>
-Laredo TX, 78045<br>
-<br>
-DESTINO<br>
-Kimberly Clark de México, S.A.B de C.V.<br>
-Carretera Monterrey-Saltillo, KM 21.4<br>
-Ramos Arizpe, CU 25900
-CONTENEDOR: 
-
-Factura A - 194
-ORIGEN: PEÑAFIEL BEBIDAS SA DE CV, PLANTA XALOSTOC<br>
-<br>
-DESTINO: WAL-MART MTY
-CONTENEDOR: 
-
-Factura A - 195
-ORIGEN: PEÑAFIEL BEBIDAS SA DE CV, PLANTA XALOSTOC<br>
-<br>
-DESTINO: WAL-MART MTY
-CONTENEDOR: 
-
-Factura A - 196
-ORIGEN: PEÑAFIEL BEBIDAS,  PLANTA XALOSTOC<br>
-<br>
-DESTINO: WAL-MART MTY
-CONTENEDOR: 
-
-Factura A - 197
-ORIGEN: PEÑAFIEL BEBIDAS, XALOSTOC<br>
-<br>
-DESTINO: WAL-MART, MTY
-CONTENEDOR: 
-
-Factura A - 198
-ORIGEN: PEÑAFIEL BEBIDAS, XALOSTOC<br>
-<br>
-DESTINO: WAL-MART, MTY
-CONTENEDOR: 
-
-Factura A - 199
-ORIGEN: PEÑAFIEL BEBIDAS, XALOSTOC<br>
-<br>
-DESTINO: WAL-MART, MTY
-CONTENEDOR: 
-
-Factura A - 200
-ORIGEN: PEÑAFIEL BEBIDAS, XALOSTOC<br>
-<br>
-DESTINO: WAL-MART, MTY
-CONTENEDOR: 
 
 Factura LM - 201
 EGLV003104296415		EMCU8321811
@@ -35764,6 +35228,397 @@ Factura LM - 1681
 BL: BANR11YTJS0035<br>
 CONTENEDORES: BURU6638670 / BURU6734919
 CONTENEDOR: BURU6638670
+
+Factura LM - 1681
+BL: BANR11YTJS0035<br>
+CONTENEDORES: BURU6638670 / BURU6734919
+CONTENEDOR: BURU6638670
+
+Factura LM - 1682
+ORIGEN: MANZANILLO<br>
+DESTINO: SALINAS VICTORIA<br>
+PEDIMENTO: 2001872<br>
+CONTENEDORES: WHSU5289356/ WHSU5146458
+CONTENEDOR: WHSU5289356
+
+Factura LM - 1683
+ORIGEN: MANZANILLO<br>
+DESTINO: KALOS<br>
+PEDIMENTO: 23 16 3633 3000181<br>
+CONTENEDORES: SEGU6069981 / SEKU4039684
+CONTENEDOR: SEGU6069981
+
+Factura LM - 1684
+ORIGEN: MANZANILLO<br>
+DESTINO:HOFUSAN / KALOS <br>
+PEDIMENTO: 23 16 3633 3000180<br>
+CONTENEDORES: YMLU8976590 / YMLU8689754
+CONTENEDOR: YMLU8976590
+
+Factura LM - 1685
+CONTENEDORES<br>
+CMAU0499907 / CMAU3218135
+CONTENEDOR: CMAU0499907
+
+Factura LM - 1686
+CONTENEDORES<br>
+TRHU1340880 / CMAU1098513
+CONTENEDOR: TRHU1340880
+
+Factura LM - 1687
+BL: COSU6344611570 <br>
+CONTENEDORES<br>
+OOLU9397690 / FSCU7262763
+CONTENEDOR: COSU6344611
+
+Factura LM - 1688
+BL: OOLU2710071000<br>
+CONTENEDORES<br>
+CSNU7930441,CSNU8064830
+CONTENEDOR: OOLU2710071
+
+Factura LM - 1689
+BL: 6349387160<br>
+CONTENEDORES<br>
+CSLU6109898 / CBHU8937083
+CONTENEDOR: CSLU6109898
+
+Factura LM - 1690
+BL: COSU6349684860<br>
+CONTENEDORES<br>
+DFSU7396920 / CSNU7087759
+CONTENEDOR: COSU6349684
+
+Factura LM - 1691
+BL: OOLU2711394960<br>
+CONTENEDORES<br>
+OOLU9605480/TRHU6590182
+CONTENEDOR: OOLU2711394
+
+Factura LM - 1692
+BL: OOLU2710831730<br>
+CONTENEDORES<br>
+CSNU8094599 / OOCU6823943
+CONTENEDOR: OOLU2710831
+
+Factura LM - 1693
+BL: OOLU2709614920<br>
+CONTENEDORES<br>
+OOCU7287249 / TRHU7604681
+CONTENEDOR: OOLU2709614
+
+Factura LM - 1694
+BL: OOLU2711277400<br>
+CONTENEDORES<br>
+SEGU5139739 / FCIU9813296
+CONTENEDOR: OOLU2711277
+
+Factura LM - 1695
+PEDIMENTO: 23 16 3774 3000124<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: QUERETARO<br>
+CONTENEDORES: CSNU8097577  CBHU9515246
+CONTENEDOR: CSNU8097577
+
+Factura LM - 1696
+PEDIMENTO: 23 16 3645 3000129<br>
+ORIGEN: MANZANILLO<br>
+DESTINO:APASEO EL GRANDE, GTO.<br>
+CONTENEDORES: PCIU9252889 TXGU7222100
+CONTENEDOR: PCIU9252889
+
+Factura LM - 1697
+PEDIMENTO: 23 16 3645 3000129<br>
+ORIGEN: MANZANILLO<br>
+DESTINO:APASEO EL GRANDE, GTO.<br>
+CONTENEDORES: TEMU7479776 / PCIU9268205
+CONTENEDOR: TEMU7479776
+
+Factura LM - 1698
+PEDIMENTO: 23 16 3645 3000129<br>
+ORIGEN: MANZANILLO<br>
+DESTINO:APASEO EL GRANDE, GTO.<br>
+CONTENEDORES: PIDU4042239 / PCIU9441706
+CONTENEDOR: PIDU4042239
+
+Factura LM - 1699
+PEDIMENTO: 23 16 3645 3000058<br>
+ORIGEN: MANZANILLO<br>
+DESTINO:APASEO EL GRANDE, GTO.<br>
+CONTENEDORES: OOCU7492027 CBHU8936451
+CONTENEDOR: OOCU7492027
+
+Factura LM - 1700
+PEDIMENTO: 23 16 3645 3000058<br>
+ORIGEN: MANZANILLO<br>
+DESTINO:APASEO EL GRANDE, GTO.<br>
+CONTENEDORES:TEMU6550334 CSLU6081548
+CONTENEDOR: TEMU6550334
+
+Factura LM - 1701
+BL: COSU6343520710<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+FFAU3604075 / CSNU6370050
+CONTENEDOR: COSU6343520
+
+Factura LM - 1702
+BL: COSU6888656490<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+BEAU5809968 / OOCU7329489
+CONTENEDOR: COSU6888656
+
+Factura LM - 1703
+BL: COSU6343919710<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+BMOU4811013 / OOCU7139848
+CONTENEDOR: COSU6343919
+
+Factura LM - 1704
+BL: COSU6888622350<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+CAIU8832251 / OOLU9593671
+CONTENEDOR: COSU6888622
+
+Factura LM - 1705
+BL: OOLU2706732750<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+SEGU6456466 / TCNU3983768
+CONTENEDOR: OOLU2706732
+
+Factura LM - 1706
+BL: OOLU2706568090 <br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+BMOU5680520 / CSLU6112211
+CONTENEDOR: OOLU2706568
+
+Factura LM - 1707
+BL: OOLU2706565270<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+BMOU5519388 / OOCU7837284
+CONTENEDOR: OOLU2706565
+
+Factura LM - 1708
+BL: SHRS20261600<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+TLLU3488615 / TLLU3488641
+CONTENEDOR: SHRS2026160
+
+Factura LM - 1709
+BL: OOLU2706117150<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+OOCU6793155 / FCIU9482217
+CONTENEDOR: OOLU2706117
+
+Factura LM - 1710
+BL: OOLU2706011870<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+CSNU7390127 / OOCU8760459
+CONTENEDOR: OOLU2706011
+
+Factura LM - 1711
+BL: COSU6342783330<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+FSCU8638599 / TGBU4106172
+CONTENEDOR: COSU6342783
+
+Factura LM - 1712
+ORIGEN: MANZANILLO<br>
+DESTINO: ESCOBEDO<br>
+PEDIMENTO: 23 16 3862 3000417<br>
+CONTENEDOR: UETU2804041
+CONTENEDOR: UETU2804041
+
+Factura LM - 1713
+BL: COSU6337383630<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+CCLU7887347 / TCKU7194254
+CONTENEDOR: COSU6337383
+
+Factura LM - 1714
+BL: oolu2705848150<br>
+ORIGEN: MANZANILLO<br>
+DESTINO: ARTEAGA<br>
+CONTENEDORES<br>
+OCU6819120 / OOLU9289550
+CONTENEDOR: OOLU9289550
+
+Factura LM - 1715
+OC# JAL-501537<br>
+3253617041<br>
+CONTENEDORES<br>
+KKFU7894337 / TEMU8900745
+CONTENEDOR: KKFU7894337
+
+Factura LM - 1716
+ORIGEN: MANZANILLO<br>
+CONTENEDORES: EGSU9166663
+CONTENEDOR: EGSU9166663
+
+Factura LM - 1717
+ORIGEN: MANZANILLO<br>
+DESTINO: SALINAS VICTORIA<br>
+CONTENEDORES: BSIU8126040 / GCXU5094176
+CONTENEDOR: BSIU8126040
+
+Factura LM - 1718
+ORIGEN: MANZANILLO<br>
+DESTINO: SALINAS VICTORIA<br>
+CONTENEDORES: PIDU4019413 /PCIU9538337
+CONTENEDOR: PIDU4019413
+
+Factura LM - 1719
+ORIGEN: MANZANILLO<br>
+DESTINO: SALINAS VICTORIA<br>
+CONTENEDORES: PCIU9486228 / PCIU9542511
+CONTENEDOR: PCIU9486228
+
+Factura LM - 1720
+ORIGEN: MANZANILLO<br>
+DESTINO: SALINAS VICTORIA<br>
+CONTENEDORES: TLLU2798600 / TRHU1935975
+CONTENEDOR: TLLU2798600
+
+Factura LM - 1721
+ORIGEN: MANZANILLO<br>
+DESTINO: SALINAS VICTORIA<br>
+CONTENEDORES: WHSU5110305 / TGHU6046990
+CONTENEDOR: WHSU5110305
+
+Factura LM - 1722
+OC # 111502<br>
+CONTENEDORES:<br>
+MOAU6744203 NYKU9742273
+CONTENEDOR: MOAU6744203
+
+Factura LM - 1723
+OC # 111502<br>
+CONTENEDORES:<br>
+MOAU6744780 FCIU5659768
+CONTENEDOR: MOAU6744780
+
+Factura LM - 1724
+OC# JAL-501537<br>
+3253617041<br>
+CONTENEDORES<br>
+KKFU7894337 / TEMU8900745
+CONTENEDOR: KKFU7894337
+
+Factura LM - 1725
+PRODUCTO: LISINA MONOHIDROCLORURO<br>
+CARGA: 53 SUPERBOLSAS<br>
+PEDIMENTO: 2000493
+CONTENEDOR: 
+
+Factura LM - 1726
+CARGA: 40 SUPERBOLSAS<br>
+PEDIMENTO: 2002551-2
+CONTENEDOR: 
+
+Factura LM - 1727
+CARGA : 40 SUPER BOLSAS<br>
+PEDIMENTO: 22 16 3573 2001546<br>
+Mercancía detenida en aduana del 16 de Marzo al 04 de Abril 2022
+CONTENEDOR: 
+
+Factura LM - 1728
+REF: MANZ22-02660-I00<br>
+CARGA SUELTA: 8 BULTOS<br>
+PEDIMENTO:3573 2003177<br>
+PEDIDO: 48656
+CONTENEDOR: 
+
+Factura LM - 1729
+CARGA: 27 SUPERBOLSAS <br>
+PEDIMENTO: 2001546<br>
+B/L: XGGMZN006
+CONTENEDOR: 
+
+Factura LM - 1730
+CARGA: 4 PALLETS<br>
+PEDIMENTO: 22 16 3573 2002717
+CONTENEDOR: 
+
+Factura LM - 1731
+CARGA: 40 SUPERBOLSAS<br>
+PEDIMENTO: 22 16 3573 2002551-1
+CONTENEDOR: 
+
+Factura LM - 1732
+ARGA : 40 SUPER BOLSAS<br>
+PEDIMENTO: 22 16 3573 2001546<br>
+Mercancía detenida en aduana del 27 de Febrero al 15 de Marzo 2022
+CONTENEDOR: 
+
+Factura LM - 1733
+PRODUCTO: OXIDO MAGNESIO<br>
+PEDIMENTO: 2001546<br>
+CARGA: 40 SUPERBOLSAS
+CONTENEDOR: 
+
+Factura LM - 1734
+CONTENEDOR: CXRU1340865<br>
+PEDIMENTO: 22 16 3573 2001584
+CONTENEDOR: 
+
+Factura LM - 1735
+ORIGEN: MANZANILLO<br>
+DESTINO: ESCOBEDO, N.L.<br>
+PEDIMENTO: 23 16 3862 3001227<br>
+CONTENEDORES: TRHU1912732 / HLXU1220845
+CONTENEDOR: TRHU1912732
+
+Factura LM - 1736
+ORIGEN: MANZANILLO<br>
+DESTINO: APODACA, N.L.<br>
+PEDIMENTO: 23 16 3862 3001172<br>
+CONTENEDORES: CLHU3853800 / UACU3753495
+CONTENEDOR: CLHU3853800
+
+Factura LM - 1737
+REF: MLI230756<br>
+PEDIMENTO: 23 16 3387 3001410<br>
+CONTENEDOR: MSMU5532609
+CONTENEDOR: MSMU5532609
+
+Factura LM - 1738
+REF: MLI230756<br>
+PEDIMENTO: 23 16 3387 3001410<br>
+CONTENEDOR: GAOU6709313
+CONTENEDOR: GAOU6709313
+
+Factura LM - 1739
+OC# 2600090<br>
+UNIDADES:<br>
+TLLU4859393<br>
+ZCSU6687110<br>
+TCNU6908053<br>
+ZCSU7500862<br>
+PRSU8867770
+CONTENEDOR: TLLU4859393
 
 -----------------LN-------------------
 
@@ -53752,6 +53607,204 @@ PEDIMENTO: 2065217<br>
 PEDIDO: F000007058
 CONTENEDOR: 
 
+Factura LN - 2310
+CAJA: 297<br>
+ORIGEN: TLAJOMULCO DE ZUÑIGA, JALISCO<br>
+DESTINO: NUEVO LAREDO
+CONTENEDOR: 
+
+Factura LN - 2311
+CAJA: 306<br>
+ORIGEN: TLAJOMULCO DE ZUÑIGA, JALISCO<br>
+DESTINO: NUEVO LAREDO
+CONTENEDOR: 
+
+Factura LN - 2312
+PRO: 9835725 <br>
+CAJA: 48807<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2313
+PRO: 9885654<br>
+CAJA: 44807<br>
+CLIENTE: TEIJIN AUTOMOTIVE TECNOLOGIES<br>
+ORIGEN: SALTILLO<br>
+DESTINO:LAREDO,TX
+CONTENEDOR: 
+
+Factura LN - 2314
+PRO: &nbsp;9884108<br>
+CAJA: 46297<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2315
+PRO: &nbsp;9885039<br>
+CAJA: 51977<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2316
+CAJA: 18988<br>
+ORIGEN: TUCSON, AZ<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 23 24 1680 3005310<br>
+PEDIDO: F000007871
+CONTENEDOR: 
+
+Factura LN - 2317
+CAJA: 510264<br>
+ORIGEN: OKLAHOMA, OK<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 23 24 1680 3005322<br>
+PEDIDO: F000007595
+CONTENEDOR: 
+
+Factura LN - 2318
+CAJA: LN 128<br>
+ORIGEN: OKLAHOMA, OK<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 23 24 1680 3005430<br>
+PEDIDO: F000007871
+CONTENEDOR: 
+
+Factura LN - 2319
+CAJA: 7031
+CONTENEDOR: 1
+
+Factura LN - 2320
+CAJA: 154626<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIMENTO: 1680 1053524<br>
+PEDIDO: F000004098
+CONTENEDOR: 
+
+Factura LN - 2321
+CAJA: 30507<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO,TX<br>
+CONCENTRADO: 158812<br>
+REMISION: 25002001
+CONTENEDOR: 
+
+Factura LN - 2322
+PRO: &nbsp;&nbsp;9885654<br>
+CAJA: 42943<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2323
+CAJA: SWFZ181718<br>
+ORIGEN: DALLAS,  TX<br>
+DESTINO: ECATEPEC <br>
+PEDIDO: F000007803
+CONTENEDOR: 
+
+Factura LN - 2324
+PRO: &nbsp;9878445<br>
+CAJA: 47209<br>
+CLIENTE: TEIJIN AUTOMOTIVE TECNOLOGIES<br>
+ORIGEN: SALTILLO<br>
+DESTINO:LAREDO,TX
+CONTENEDOR: 
+
+Factura LN - 2325
+PRO: &nbsp;&nbsp;9883617<br>
+CAJA: 48333<br>
+CLIENTE: TEIJIN AUTOMOTIVE TECNOLOGIES<br>
+ORIGEN: SALTILLO<br>
+DESTINO:LAREDO,TX
+CONTENEDOR: 
+
+Factura LN - 2326
+PRO#&nbsp;9888822<br>
+CAJA: 48073<br>
+CLIENTE: TSCO<br>
+ORIGEN: DERRAMADERO<br>
+DESTINO: LAREDO,TX
+CONTENEDOR: 
+
+Factura LN - 2327
+PRO#&nbsp;&nbsp;9888824<br>
+CAJA: 44169<br>
+CLIENTE: TSCO<br>
+ORIGEN: DERRAMADERO<br>
+DESTINO: LAREDO,TX
+CONTENEDOR: 
+
+Factura LN - 2328
+PRO: &nbsp;&nbsp;9887520&nbsp;<br>
+CAJA: 46943<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2329
+PRO: &nbsp;9890974<br>
+CAJA: 42057<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2330
+PRO: &nbsp;9892634&nbsp;<br>
+CAJA: 45559<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2331
+PRO: &nbsp;&nbsp;9893880<br>
+&nbsp;CAJA: 48915<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2332
+PRO: &nbsp;&nbsp;&nbsp;9890993<br>
+CAJA: 51781<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2333
+PRO: &nbsp;9894000<br>
+CAJA: 49527<br>
+CLIENTE: LENNOX<br>
+ORIGEN: RAMOS ARIZPE<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
+Factura LN - 2334
+CAJA: 554022<br>
+ORIGEN: LAREDO,TX<br>
+DESTINO: QRO<br>
+PEDIMENTO: 2002052<br>
+PEDIDO: SUERO DE LECHE
+CONTENEDOR: 
+
+Factura LN - 2335
+OC#7916<br>
+CAJA: 532116<br>
+ORIGEN: GUADALAJARA<br>
+DESTINO: LAREDO
+CONTENEDOR: 
+
 -----------------TM-------------------
 
 
@@ -58642,12 +58695,6 @@ Factura TM - 625
 CONTENEDOR : WHSU6494186<br>
 PEDIENTOS:221636332002572 / 221636332002573
 CONTENEDOR: WHSU6494186
--------------------------------------------------
-
-Factura TM - 625
-CONTENEDOR : WHSU6494186<br>
-PEDIENTOS:221636332002572 / 221636332002573
-CONTENEDOR: WHSU6494186
 
 Factura TM - 626
 ORIGEN:MANZANILLO,COLIMA<br>
@@ -58799,516 +58846,98 @@ DESTINO:GUADALAJARA,JALISCO<br>
 CONTENEDORES :MSKU1354339  HASU4187494
 CONTENEDOR: MSKU1354339
 
-Factura KCM - 6418
-ORIGEN: MANZANILLO, COL<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 2006028<br>
-CONTENEDORES: MRKU7418634 / MSKU2892112
-CONTENEDOR: MRKU7418634
-
-Factura KCM - 6419
-ORIGEN: MANZANILLO, COL<br>
-DESTINO: TLAXCALA, TLAX.<br>
-PEDIMENTO: 2006206<br>
-CONTENEDORES: MHSU5177530
-CONTENEDOR: MHSU5177530
-
-Factura KCM - 6420
-ORIGEN: MANZANILLO, COL<br>
-DESTINO: TLAXCALA, TLAX.<br>
-PEDIMENTO: 2006206<br>
-CONTENEDORES: MHSU5177530
-CONTENEDOR: MHSU5177530
-
-Factura KCM - 6421
-ORIGEN: MANZANILLO, COL<br>
-DESTINO: TLAXCALA, TLAX.<br>
-PEDIMENTO: 2006042<br>
-CONTENEDORES: MRKU5305367
-CONTENEDOR: MRKU5305367
-
-Factura KCM - 6422
-CAJA: 1201<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2024895<br>
-PEDIDO: F000005090
-CONTENEDOR: 
-
-Factura KCM - 6423
-CAJA: 1201<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2024895<br>
-PEDIDO: F000005090
-CONTENEDOR: 
-
-Factura KCM - 6424
-CAJA: S744<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 1052344<br>
-PEDIDO: F000003836
-CONTENEDOR: 
-
-Factura KCM - 6425
-CAJA:532101<br>
-ORIGEN:LAREDO,TX<br>
-DETINO:RAMOS ARIZPE<br>
-PEDIMENTO:1680 2036207<br>
-PEDIDO:F000004778
-CONTENEDOR: 
-
-Factura KCM - 6426
-CAJA:S518<br>
-ORIGEN: LAREDO, TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIDO : F000006353<br>
-PEDIMENTO:2051799
-CONTENEDOR: 
-
-Factura KCM - 6427
-CAJA:SWFZ502318<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000005413<br>
-PEDIMENTO:1680 2036105
-CONTENEDOR: 
-
-Factura KCM - 6428
-CAJA:SWFZ163218<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000005295<br>
-PEDIMENTO:1680 2024870
-CONTENEDOR: 
-
-Factura KCM - 6429
-CAJA:SWFZ210310<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000004701<br>
-PEDIMENTO:1680 2004686
-CONTENEDOR: 
-
-Factura KCM - 6430
-CAJA:SWFZ153798<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000005413<br>
-PEDIMENTO:1680 2036193
-CONTENEDOR: 
-
-Factura KCM - 6431
-CAJA:SWFZ161006<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000005615<br>
-PEDIMENTO:1680 2036290
-CONTENEDOR: 
-
-Factura KCM - 6432
-CAJA:532111<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000006574<br>
-PEDIMENTO:1680 2053995
-CONTENEDOR: 
-
-Factura KCM - 6433
-CAJA:532111<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F00000674<br>
-PEDIMENTO:1680 2065133
-CONTENEDOR: 
-
-Factura KCM - 6434
-CAJA:532111<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000006574<br>
-PEDIMENTO:1680 2065796
-CONTENEDOR: 
-
-Factura KCM - 6435
-CAJA:844<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000006942<br>
-PEDIMENTO:1680 2065826
-CONTENEDOR: 
-
-Factura KCM - 6436
-CAJA: S459<br>
-ORIGEN: LAREDO <br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIDO: F000006071<br>
-PEDIMENTO: 1680 2039913
-CONTENEDOR: 
-
-Factura KCM - 6437
-CAJA: 154626<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 1053524<br>
-PEDIDO: F000004098
-CONTENEDOR: 
-
-Factura KCM - 6438
-CAJA: 112145<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2020686<br>
-PEDIDO: F000004833
-CONTENEDOR: 
-
-Factura KCM - 6439
-CAJA: SWFZ174637<br>
-ORIGEN: N.LAREDO<br>
-DESTINO: RAMOS ARZIPE<br>
-PEDIMENTO: 1680 2004238<br>
-PEDIDO: F000004223
-CONTENEDOR: 
-
-Factura KCM - 6440
-CAJA: SWFZ163132<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2004383<br>
-PEDIDO: F000004272
-CONTENEDOR: 
-
-Factura KCM - 6441
-CAJA: SWFZ182847<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2004422<br>
-PEDIDO: F000004437
-CONTENEDOR: 
-
-Factura KCM - 6442
-CAJA: SWFZ182135<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2004218<br>
-PEDIDO: F000004272
-CONTENEDOR: 
-
-Factura KCM - 6443
-CAJA: SWFZ111598<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2004271<br>
-PEDIDO: F000004437
-CONTENEDOR: 
-
-Factura KCM - 6444
-ORIGEN: MANZANILLO, COL<br>
-DESTINO: TLAXCALA, TLAX.<br>
-PEDIMENTO: 2006206<br>
-CONTENEDORES: WHSU5250396
-CONTENEDOR: WHSU5250396
-
-Factura KCM - 6445
-CAJA: 532108<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2004763<br>
-PEDIDO: F000004534
-CONTENEDOR: 
-
-Factura KCM - 6446
-CAJA: 31321<br>
-ORIGEN: LAREDO,TX<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIMENTO: 1680 2004972<br>
-PEDIDO: F000004762
-CONTENEDOR: 
-
-Factura KCM - 6447
-CAJA: 532114<br>
-ORIGEN: RAMOS ARIZPE<br>
-DESTINO: LAREDO TX<br>
-CONCENTRADO: 163712<br>
-REMISION: 25003213
-CONTENEDOR: 
-
-Factura KCM - 6448
-CAJA:532112<br>
-ORIGEN:RAMOS ARIZPE<br>
-DESTINO:LAREDO,TX<br>
-CONCENTRADO:163716<br>
-REMISION:25003214
-CONTENEDOR: 
-
-Factura KCM - 6449
-CAJA:532115<br>
-ORIGEN:RAMOS ARIZPE<br>
-DESTINO: LAREDO,TX<br>
-CONCENTRADO:164079<br>
-REMISION:25003306
-CONTENEDOR: 
-
-Factura KCM - 6450
-CAJA: 845<br>
-ORIGEN:RAMOS ARIZPE<br>
-DESTRINO:LAREDO,TX<br>
-CONCENTRADO:164166<br>
-REMISION:25003332
-CONTENEDOR: 
-
-Factura KCM - 6451
-CAJA:532113<br>
-ORIGEN:RAMOS ARIZPE<br>
-DESTINO: LAREDO,TX<br>
-CONCENTRADO:164167<br>
-REMISION:25003333
-CONTENEDOR: 
-
-Factura KCM - 6452
-CAJA: 532111<br>
-ORIGEN: RAMOS ARIZPE<br>
-DESTINO:LAREDO,TX<br>
-CONCETTRACION:164168<br>
-TREMISION:25003334
-CONTENEDOR: 
-
-Factura KCM - 6453
-CAJA: 532104<br>
-ORIGEN: BAJIO<br>
-DESTINO: LAREDO<br>
-CONCENTRADO: 227120<br>
-REMISION: 13008469
-CONTENEDOR: 
-
-Factura KCM - 6454
-Caja 845<br>
-Origen Ramos Arizpe<br>
-Destino Nuevo Laredo <br>
-Concentrado 171857<br>
-Remisión 25005590
-CONTENEDOR: 
-
-Factura KCM - 6455
-CAJA:532105<br>
-ORIGEN:RAMOS ARIZPE <br>
-DESTINO: LAREDO,TX<br>
-CONCENTRADO:164754<br>
-REMISION:25003449
-CONTENEDOR: 
-
-Factura KCM - 6456
-CAJA: 31321<br>
-ORIGEN: RAMOS ARIZPE<br>
-DESTINO: LAREDO,TX<br>
-CONCENTRADO: 164026<br>
-REMISION: 25003289
-CONTENEDOR: 
-
-Factura KCM - 6457
-CAJA: 532110<br>
-ORIGEN: RAMOS ARIZPE<br>
-DESTINO: LAREDO<br>
-CONCENTRADO: 153582<br>
-REMISION: 25000380
-CONTENEDOR: 
-
-Factura KCM - 6458
-ORIGEN: MANZANILLO, COL<br>
-PEDIMENTO: 2006206<br>
-CONTENEDORES: WHSU5250396
-CONTENEDOR: WHSU5250396
-
-Factura KCM - 6459
-CAJA:  767257<br>
-ORIGEN:  COMMERCE CITY, CO<br>
-DESTINO:  RAMOS ARIZPE<br>
-PEDIDO:  F000007905<br>
-PEDIMENTO:  23 24 1680 3006424
-CONTENEDOR: 
-
-Factura KCM - 6460
-CAJA:  767257<br>
-ORIGEN:  COMMERCE CITY, CO<br>
-DESTINO:  RAMOS ARIZPE<br>
-PEDIDO:  F000007905<br>
-PEDIMENTO:  23 24 1680 3006424
-CONTENEDOR: 
-
-Factura KCM - 6461
-CAJA:4082<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006829
-CONTENEDOR: 
-
-Factura KCM - 6462
-CAJA:6276<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006819
-CONTENEDOR: 
-
-Factura KCM - 6463
-CAJA: 5972<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006626
-CONTENEDOR: 
-
-Factura KCM - 6464
-CAJA: 8987<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006790
-CONTENEDOR: 
-
-Factura KCM - 6465
-CAJA: 4320<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006834
-CONTENEDOR: 
-
-Factura KCM - 6466
-CAJA: 9003<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006566
-CONTENEDOR: 
-
-Factura KCM - 6467
-CAJA: 1718<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007706<br>
-PEDIMENTO:23 24 1680 3006572
-CONTENEDOR: 
-
-Factura KCM - 6468
-CAJA: 6267<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006818
-CONTENEDOR: 
-
-Factura KCM - 6469
-CAJA: 003<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007842<br>
-PEDIMENTO:23 24 1680 3006878
-CONTENEDOR: 
-
-Factura KCM - 6470
-CAJA: 72433<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007842<br>
-PEDIMENTO:23 24 1680 3006854
-CONTENEDOR: 
-
-Factura KCM - 6471
-CAJA: 532113<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006817
-CONTENEDOR: 
-
-Factura KCM - 6472
-CAJA: 31321<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006627
-CONTENEDOR: 
-
-Factura KCM - 6473
-CAJA: 49049<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007842<br>
-PEDIMENTO:23 24 1680 3006720
-CONTENEDOR: 
-
-Factura KCM - 6474
-CAJA: 532101<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006843
-CONTENEDOR: 
-
-Factura KCM - 6475
-CAJA: 532115<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006931
-CONTENEDOR: 
-
-Factura KCM - 6476
-CAJA: 532116<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006638
-CONTENEDOR: 
-
-Factura KCM - 6477
-CAJA:  50735<br>
-ORIGEN: LAREDO<br>
-DESTINO: RAMOS ARIZPE<br>
-PEDIDO: F000007691<br>
-PEDIMENTO:  23 24 1680 3005472
-CONTENEDOR: 
-
-Factura KCM - 6478
-CAJA: 809<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006735
-CONTENEDOR: 
-
-Factura KCM - 6479
-CAJA: 532112<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006781
-CONTENEDOR: 
-
-Factura KCM - 6480
-CAJA: 844<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006801
-CONTENEDOR: 
-
-Factura KCM - 6481
-CAJA: 532114<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007957<br>
-PEDIMENTO:23 24 1680 3006861
-CONTENEDOR: 
-
-Factura KCM - 6482
-CAJA: 297<br>
-ORIGEN:LAREDO<br>
-DESTINO:RAMOS ARIZPE<br>
-PEDIDO:F000007691<br>
-PEDIMENTO:23 24 1680 3006680
-CONTENEDOR: 
+Factura TM - 642
+REFERENCIA(S) <br>
+PEDIMENTO(S) I-3719-3004238,I-3719-3004238<br>
+ORDEN DE COMPRA: 1100505<br>
+CONTENEDORES:TCLU3926539,TEMU5278089
+CONTENEDOR: TCLU3926539
+
+Factura TM - 643
+REFERENCIA UTBL: T21076/T21077 <br>
+REFERENCIA: 22006749/0<br>
+PEDIMENTO: 23 16 3451 3000865<br>
+ORIGEN: MANZANILLO <br>
+DESTINO: XHALA/HELICOM CDMX<br>
+CONTENEDOR: BMOU2977005 / PCIU9361030
+CONTENEDOR: BMOU2977005
+
+Factura TM - 644
+REFERENCIA UTBL: T21076/T21077 <br>
+REFERENCIA: 22006749/0<br>
+PEDIMENTO: 23 16 3451 3000865<br>
+ORIGEN: MANZANILLO <br>
+DESTINO: XHALA/HELICOM CDMX<br>
+CONTENEDOR: BMOU2977005 / PCIU9361030
+CONTENEDOR: BMOU2977005
+
+Factura TM - 645
+REFERENCIA UTBL T21262<br>
+REFERENCIA 230005309/0<br>
+PEDIMENTO 23 16 3451 3001624<br>
+ORIGEN: MANZANILLO,COLIMA<br>
+DESTINO: CHIAUTEMPAN,TLAXCALA <br>
+CONTENEDOR:<br>
+HLBU2055877 / TCLU6615443
+CONTENEDOR: HLBU2055877
+
+Factura TM - 646
+PEDIMENTO(S)23 16 3737 3000618 / 23 16 3737 3000716<br>
+ORIGEN:MANZANILLO,COLIMA<br>
+DESTINO:GUADALUPE,NUEVO LEON <br>
+CONTENEDORES:<br>
+OOCU8969691 SELLO OOLHNW4629<br>
+DRYU9435434 SELLO EMCRXP3522
+CONTENEDOR: OOCU8969691
+
+Factura TM - 647
+REFERENCIA(S) 0492340-1<br>
+PEDIMENTO(S) 23 16 3737 3000824<br>
+ORIGEN : MANZANILLO,COLIMA<br>
+DESTINO: CUATLANCINGO,PUEBLA<br>
+COTENEDORES :<br>
+SUDU8811718 SELLO CN1801155<br>
+MRKU5281882 SELLO CN1724958
+CONTENEDOR: SUDU8811718
+
+Factura TM - 648
+REFERENCIA(S) 492378<br>
+PEDIMENTO(S) 23 16 3737 3000828<br>
+ORGIEN: MANZANILLO,COLIMA<br>
+DESTINO: GUADALUPE, NUEVO LEON<br>
+CONTENEDORES :<br>
+MRKU2774653 SELLO CN1803868<br>
+MRKU5057065 SELLO CN1732578
+CONTENEDOR: MRKU2774653
+
+Factura TM - 649
+REFERENCIA(S) 0492340-1<br>
+PEDIMENTO(S) 23 16 3737 3000824<br>
+ORIGEN: MANZANILLO,COLIMA<br>
+DESTINO: GUADALUPE, NUEVO LEON<br>
+CONTENEDORES :<br>
+MRKU2323285 SELLO CN1724936<br>
+MRKU5058734 SELLO  CN1858691
+CONTENEDOR: MRKU2323285
+
+Factura TM - 650
+OC#1905100<br>
+CONTENEDORES<br>
+GCXU5220016<br>
+TLLU5457911
+CONTENEDOR: TLLU5457911
+
+Factura TM - 651
+OC# 2608545<br>
+CONTENEDOR<br>
+CSNU1477889
+CONTENEDOR: CSNU1477889
+
+Factura TM - 652
+OC#<br>
+CONTENEDORES<br>
+TCLU9563940<br>
+GCXU5401204<br>
+22 16 3719 2012479
+CONTENEDOR: TCLU9563940
 
