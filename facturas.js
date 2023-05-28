@@ -3,6 +3,7 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import path from "path";
 import dotenv from "dotenv";
+dotenv.config();
 
 function mergeFiles() {
   // Define array of types
@@ -78,7 +79,7 @@ async function scrapeData(TYPE) {
 
   // Assign the last ID invoice to NUMBER
   const NUMBER = getLastInvoiceId();
-  console.log(`Last invoice ID: ${NUMBER}`);
+  console.log(`Last ${TYPE} invoice ID: ${NUMBER}`);
   await page.waitForTimeout(5000);
 
   /**
@@ -109,9 +110,11 @@ async function scrapeData(TYPE) {
   console.log("Logging in...");
 
   // Fill in the login form and click the submit button
-  await page.type('input[name="rfc"]', "OLS140228RA6", { delay: 100 });
-  await page.type('input[name="usuario"]', "rocio.lopez", { delay: 100 });
-  await page.type('input[name="contrasena"]', "Enero2021#", { delay: 100 });
+  await page.type('input[name="rfc"]', process.env.RFC, { delay: 100 });
+  await page.type('input[name="usuario"]', process.env.USER, { delay: 100 });
+  await page.type('input[name="contrasena"]', process.env.PASSWORD, {
+    delay: 100,
+  });
   await page.click("#kt_login_signin_submit");
 
   // Wait for the page to load after login
