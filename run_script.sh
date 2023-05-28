@@ -4,6 +4,7 @@
 node facturas.js
 
 # Commit changes
+git pull
 git add .
 git commit -m "Update data"
 
