@@ -2,6 +2,6 @@ FACTURAS_KCM.txt
 FACTURAS_LM.txt
 FACTURAS_LN.txt
 FACTURAS_TM.txt
-facturas.js
+.env
 remisiones.js
 node_modules
