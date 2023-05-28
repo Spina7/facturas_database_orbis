@@ -46,7 +46,7 @@ const types = ["LN", "LM", "TM", "KCM"];
  */
 async function scrapeData(TYPE) {
   // Launch puppeteer browser in headless mode and enable request interception
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox'] });
   const page = await browser.newPage();
 
   // Disable unnecessary resources
