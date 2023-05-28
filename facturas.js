@@ -110,9 +110,9 @@ async function scrapeData(TYPE) {
   console.log("Logging in...");
 
   // Fill in the login form and click the submit button
-  await page.type('input[name="rfc"]', process.env.RFC, { delay: 100 });
-  await page.type('input[name="usuario"]', process.env.USER, { delay: 100 });
-  await page.type('input[name="contrasena"]', process.env.PASSWORD, {
+  await page.type('input[name="rfc"]', "OLS140228RA6", { delay: 100 });
+  await page.type('input[name="usuario"]', "rocio.lopez", { delay: 100 });
+  await page.type('input[name="contrasena"]', "Enero2021#", {
     delay: 100,
   });
   await page.click("#kt_login_signin_submit");
