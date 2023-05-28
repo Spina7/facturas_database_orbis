@@ -8,4 +8,4 @@ git add .
 git commit -m "Update data"
 
 # Push to GitHub
-git push origin master
+git push origin main
