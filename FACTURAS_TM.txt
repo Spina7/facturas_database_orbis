@@ -7262,3 +7262,42 @@ DESTINO: GUADALUPE, NUEVO LEON<br>
 CONTENEDORES : MRKU5137427 / MSKU9311420
 CONTENEDOR: MSKU9311420
 
+Factura TM - 898
+REFERENCIA :MX22PCBZL230329-062<br>
+BOL: 034D512068  <br>
+PEDIMENTO : I-3633-3000855,I-3633-3000855<br>
+ORIGEN: MANZANILLO,COLIMA<br>
+DESTINO : SAN NICOLAS DE LOS GARZA ,NUEVO LEON<br>
+CONTENEDORES :WHSU5547553 / WHLU5662680
+CONTENEDOR: WHSU5547553
+
+Factura TM - 899
+REFERENIA : R01305941 <br>
+BOL : EGLV149301435260,EGLV149301435260 <br>
+PEDIMENTO :3862-3002507,3862-3002507 <br>
+ORIGEN : MANZANILLO,COLIMA<br>
+DESTINO: APODACA,NUEVO LEON<br>
+CONTENEDORES : FSCU4996193 / LTIU6048295<br>
+<br>
+NOTA:<br>
+<br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal 2316038623002507IN (FULL)<br>
+Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. <br>
+“Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: 
+
+Factura TM - 900
+REFERENIA : R01305941 <br>
+BOL : EGLV149301435260,EGLV149301435260 <br>
+PEDIMENTO :3862-3002507,3862-3002507 <br>
+ORIGEN : MANZANILLO,COLIMA<br>
+DESTINO: APODACA,NUEVO LEON<br>
+CONTENEDORES : FSCU4996193 / LTIU6048295<br>
+<br>
+NOTA:<br>
+<br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal 2316038623002507IN (FULL)<br>
+Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. <br>
+“Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: 
+
