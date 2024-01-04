@@ -10965,3 +10965,79 @@ DESTINO: EL SALTO, JALISCO<br>
 CONTENEDORES: CMAU6151626
 CONTENEDOR: 
 
+Factura TM - 1884
+REFERENCIA: R01318733<br>
+PEDIMENTO: 23 16 3862 3007071<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: ESCOBEDO, NUEVO LEON <br>
+CONTENEDOR: FCIU2697147<br>
+<br>
+NOTA: <br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal<br>
+(2316038623007071AF)
+CONTENEDOR: 
+
+Factura TM - 1885
+REFERENCIA: R01319274<br>
+PEDIMENTO: 23 16 3862 3007231<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: ESCOBEDO, NUEVO LEON <br>
+CONTENEDOR: MEDU4047647<br>
+<br>
+NOTA: <br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal<br>
+(2316038623007231IN)
+CONTENEDOR: MEDU4047647
+
+Factura TM - 1886
+REFERENCIA: R01315045<br>
+PEDIMENTO: 23 16 3862 3005787<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, NUEVO LEON <br>
+CONTENEDOR: CAIU4605590	FFAU1564456<br>
+<br>
+NOTA: <br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal<br>
+(2316038623005787IN) Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX<br>
+0200800200720221931000068-000117 para submanufactura de exportación. "Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX.
+CONTENEDOR: 
+
+Factura TM - 1887
+REFERENCIA: R01319083<br>
+PEDIMENTO: 23 16 3862 3007185<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: ESCOBEDO, NUEVO LEON <br>
+CONTENEDOR: TCKU3180490	MEDU1546869<br>
+<br>
+NOTA: <br>
+"Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento<br>
+ Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2316038623007185IN)"
+CONTENEDOR: MEDU1546869
+
+Factura TM - 1888
+PO10995<br>
+REFERENCIA: MAI236701-1<br>
+PEDIMENTO: 23 16 3974 3030008			<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: EL SALTO, JALISCO<br>
+CONTENEDORES: MRSU5213833
+CONTENEDOR: MRSU5213833
+
+Factura TM - 1889
+PO11360<br>
+REFERENCIA: MAI237307<br>
+PEDIMENTO: 23 16 3974 3030189			<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: EL SALTO, JALISCO<br>
+CONTENEDORES: TCNU2242478
+CONTENEDOR: TCNU2242478
+
+Factura TM - 1890
+PO11114<br>
+REFERENCIA: MAI237306<br>
+PEDIMENTO: 23 16 3974 3030187			<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: EL SALTO, JALISCO<br>
+CONTENEDORES: MRFU0026715
+CONTENEDOR: 
+
