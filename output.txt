@@ -35649,6 +35649,40 @@ DESTINO: ARTEAGA, COAHUILA <br>
 CONTENEDORES: PCIU1922541	PCIU4640686
 CONTENEDOR: PCIU1922541
 
+Factura LM - 2164
+REFERENCIA: R01315046<br>
+PEDIMENTO: I 3862 3005788<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, N.L.<br>
+CONTENEDORES: MSKU6944575	PONU1757627<br>
+<br>
+NOTA: <br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2316038623005788IN) Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. “Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: MSKU6944575
+
+Factura LM - 2165
+REFERENCIA: R01319083<br>
+PEDIMENTO: I 3862 3007231 // I 3862 3007185<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, N.L.<br>
+CONTENEDORES: MRKU1093130	FCIU4149712<br>
+<br>
+NOTA: <br>
+Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2316038623005788IN) (2316038623007071AF) Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. “Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: 
+
+Factura LM - 2166
+REFERENCIA: R01319083<br>
+PEDIMENTO: 2316 3862 3007185 // 2316 3862 3007284<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: ESCOBEDO, N.L.<br>
+CONTENEDORES: HLBU1033847 TEMU4695977<br>
+<br>
+NOTA: <br>
+"Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento<br>
+ Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2316038623007185IN)"
+CONTENEDOR: TEMU4695977
+
 -----------------TM-------------------
 
 
@@ -47122,6 +47156,16 @@ CONTENEDORES: <br>
 WHSU6015350	SELLO: WHLQ690997<br>
 WHSU6761111	SELLO: WHLQ690999
 CONTENEDOR: WHSU6015350
+
+Factura TM - 1938
+REFERENCIA: 535064 / 535056<br>
+PEDIMENTO: 23 16 3737 3006550 // 23 16 3737 3006548<br>
+ORIGEN: MANZANILLO, COLIMA <br>
+DESTINO: CUAPIAXTLA, TLAXCALA<br>
+CONTENEDORES: <br>
+OOLU9631663	SELLO: OOLHRL3043<br>
+OOLU6764132	SELLO: OOLJBE7575
+CONTENEDOR: 
 
 -----------------KCM-------------------
 
@@ -87711,5 +87755,13 @@ ORIGEN:  CENTENNIAL<br>
 DESTINO: RAMOS ARIZPE<br>
 PEDIDO:  F000010371<br>
 PEDIMENTO:  232416803083471
+CONTENEDOR: 
+
+Factura KCM - 8772
+CAJA: 53115<br>
+ORIGEN: TULSA<br>
+DESTINO: RAMOS ARIZPE<br>
+PEDIDO: F000010334<br>
+PEDIMENTO: 232416803087939
 CONTENEDOR: 
 
