@@ -12308,3 +12308,39 @@ DESTINO: CUAUTITLAN || TLANEPANTLA, EDO MEX<br>
 CONTENEDORES: MSMU5583822     FSCU8001002
 CONTENEDOR: 
 
+Factura TM - 2034
+REFERENCIA: R01401321<br>
+PEDIMENTO: 24 16 3862 4000627<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, NUEVO LEON <br>
+CONTENEDOR: TRHU8547056    TGHU4470118<br>
+<br>
+<br>
+<br>
+NOTA: <br>
+Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2416038623007284IN) (2416038623007340IN)  Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. “Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: TRHU8547056
+
+Factura TM - 2035
+REFERENCIA: R01401321<br>
+PEDIMENTO: 24 16 3862 4000627<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, NUEVO LEON <br>
+CONTENEDOR: MEDU5303105   MSDU4348993<br>
+<br>
+<br>
+<br>
+<br>
+NOTA: <br>
+Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2416038624000627IN) Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. “Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: MEDU5303105
+
+Factura TM - 2036
+REFERENCIA: T28501 T28502<br>
+REFERENCIA UTBL:  240000196<br>
+PEDIMENTO: I 3451 4000271<br>
+ORIGEN: MANZANILLO, COLIMA <br>
+DESTINO: HERMOSILLO, SONORA <br>
+CONTENEDORES:  CAIU7109090  MSDU5006439
+CONTENEDOR: 
+
