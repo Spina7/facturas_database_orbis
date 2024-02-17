@@ -1,0 +1,10 @@
+Last LN invoice ID: 2883
+Starting the scraping process...
+Logging in...
+Logged in successfully.
+Navigating to the invoice table...
+Invoice table loaded.
+All files merged into output.txt
+All files merged into output.txt
+All files merged into output.txt
+All files merged into output.txt
