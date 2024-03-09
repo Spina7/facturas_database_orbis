@@ -50818,6 +50818,28 @@ PONU7965850	SELLO:  ML-CN5935743<br>
 SUDU8998846	SELLO: ML-CN5935744
 CONTENEDOR: SUDU8998846
 
+Factura TM - 2267
+REFERENCIA: R01402911<br>
+PEDIMENTO: 24 16  3862 4001188<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, NUEVO LEON <br>
+CONTENEDOR: MSDU8966541<br>
+<br>
+NOTA: <br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2416038624001188IN) Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. “Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: 
+
+Factura TM - 2268
+REFERENCIA: R01402911<br>
+PEDIMENTO: 24 16  3862 4001188<br>
+ORIGEN: MANZANILLO, COLIMA<br>
+DESTINO: APODACA, NUEVO LEON <br>
+CONTENEDOR: MSMU4182928     FFAU2991160<br>
+<br>
+NOTA: <br>
+Servicio de transportación que se realiza de ruta Terminal Manzanillo a planta MONTOI Libramiento Noreste KM27 Escobedo, NL (IMMEX 5358-2006) con pedimento de importación temporal (2416038624001188IN) (2416038624001189AF) Ruta de MONTOI S.A DE C.V a almacén 3 PL SERVICES SA DE CV Ave. E 600 Colonia El Milagro, C.P.:66634, Apodaca, NL con oficio de ampliación de Programa IMMEX 0200800200720221931000068-000117 para submanufactura de exportación. “Operación de transferencia de conformidad con el Art. 169 RLA, Art. 21 DIMMEX”.
+CONTENEDOR: 
+
 -----------------KCM-------------------
 
 
